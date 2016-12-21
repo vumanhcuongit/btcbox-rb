@@ -5,7 +5,7 @@ require 'btc_box/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "btcbox-rb"
-  spec.version       = Btcbox::Rb::VERSION
+  spec.version       = BtcBox::VERSION
   spec.authors       = ["Cuong Vu"]
   spec.email         = ["cuongvu0103@gmail.com"]
 
